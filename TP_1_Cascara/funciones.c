@@ -1,3 +1,4 @@
+#include "Funciones.h"
 int pedirNumero(char mensaje[],int numero)
 {
     printf("%s", mensaje);
